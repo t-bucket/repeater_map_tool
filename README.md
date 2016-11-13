@@ -13,3 +13,9 @@ Please feel free to clean this up to improve usability and cross platform perfor
 
 I currently have it set up to create chirp and RTSystems compatible csv files for import into those tool.
 
+Also can output csv of repeater locations and lat/lon so you can overlay on your map to review.
+
+For chirp it can add the Weather Stations for use in Baofeng radios
+
+Additionally I include the national calling frequencies
+
