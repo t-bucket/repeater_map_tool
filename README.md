@@ -19,3 +19,7 @@ For chirp it can add the Weather Stations for use in Baofeng radios
 
 Additionally I include the national calling frequencies
 
+To get the input csv files log into repeaterbook.com (must have a free account and login)
+->select North American Repeaters -> select state -> select band -> select export and csv. 
+
+
